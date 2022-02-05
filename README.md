@@ -1,2 +1,2 @@
-# My-new-Project
+# PYTHON PROJECT
 My Multimedia assignment 
